@@ -1,0 +1,12 @@
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\bin\Debug\osama hashed2.exe.config
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\bin\Debug\osama hashed2.exe
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\bin\Debug\osama hashed2.pdb
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\obj\Debug\osama hashed2.csprojResolveAssemblyReference.cache
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\obj\Debug\osama_hashed2.Form1.resources
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\obj\Debug\osama_hashed2.Properties.Resources.resources
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\obj\Debug\osama hashed2.csproj.GenerateResource.Cache
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\obj\Debug\osama hashed2.exe
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\obj\Debug\osama hashed2.pdb
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\obj\Debug\osama_hashed2.form1الاولولية.resources
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\obj\Debug\osama_hashed2.Form3.resources
+C:\Users\الحاشدي\Documents\Visual Studio 2012\Projects\c#\osama hashed2\osama hashed2\obj\Debug\osama_hashed2.Form2.resources
